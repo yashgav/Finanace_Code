@@ -1,0 +1,27 @@
+
+  .display-1{
+    font-weight: 700;
+    font-size: 5em;
+    padding: 20px 200px;
+  }
+  .display-3{
+    font-weight: 700;
+    color: violet;
+  }
+  .lead{
+    font-size: 2em; 
+    font-weight: 600;
+    padding: 30px;
+  }
+  .btn{
+    padding: 10px 50px;
+    border-radius: 30px;
+    font-weight: 600;
+  }
+  .btn:hover{
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    border: 1px ;
+  }
+  
+  
