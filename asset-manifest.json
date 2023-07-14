@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Finanace_Code/static/css/main.d51f10c8.css",
+    "main.js": "/Finanace_Code/static/js/main.6f758ea6.js",
+    "static/js/787.e597190e.chunk.js": "/Finanace_Code/static/js/787.e597190e.chunk.js",
+    "index.html": "/Finanace_Code/index.html",
+    "main.d51f10c8.css.map": "/Finanace_Code/static/css/main.d51f10c8.css.map",
+    "main.6f758ea6.js.map": "/Finanace_Code/static/js/main.6f758ea6.js.map",
+    "787.e597190e.chunk.js.map": "/Finanace_Code/static/js/787.e597190e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d51f10c8.css",
+    "static/js/main.6f758ea6.js"
+  ]
+}
